@@ -1,6 +1,6 @@
 # Proyecto_American_Express_Prediction
 
->Miembros del equipo
+>Miembros del equipo<
 >Andres Felipe Graciano Monsalve CC71375739 Ingeniería de Sistemas
 
 >Jose Carlos Ortiz Padilla CC 1003059949 Ingeniería de sistemas
