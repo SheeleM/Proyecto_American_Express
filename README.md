@@ -5,8 +5,5 @@
 2. Jose Carlos Ortiz Padilla CC 1003059949 Ingeniería de sistemas
 3. Sulay Gisela Martínez Barreto CC 1038137981 Ingeniería de sistemas
 -------------
->Enlace de la competencia de Kaggle
-https://www.kaggle.com/competitions/amex-default-prediction/data
-En el apartado 01 podrás tener una guia  para generar datos de prueba y trenes de muestra
-
->Ejecute el cuaderno 02 - run scripts para ver cómo se ejecutan los scripts.
+# Enlace de la competencia de Kaggle https://www.kaggle.com/competitions/amex-default-prediction/data
+En esta competencia se busca predecir la probabilidad de que un cliente no pague el saldo de su tarjeta de crédito en el futuro en función de su perfil de cliente mensual.
